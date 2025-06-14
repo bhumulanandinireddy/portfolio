@@ -10,18 +10,19 @@ const INFO = {
 		github: "https://github.com/bhumulanandinireddy/",
 		linkedin: "https://www.linkedin.com/in/nandini-reddy-bhumula-6b34b5194/",
 		instagram: "https://www.instagram.com/___me__nandini/?next=%2F/",
+		medium: "https://medium.com/@bhumulanandinireddy55"
 	},
 
 	homepage: {
 		title: "Full-stack web developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		"I am a seasoned Full Stack Developer specializing in building scalable enterprise applications using Java, Spring Boot, ReactJS, and AngularJS. Skilled in creating responsive, high-performance UIs and designing robust backend APIs and microservices. I am passionate about clean code, modern architecture, and continuously learning new technologies to solve complex problems effectively.",
 	},
 
 	about: {
 		title: "I’m Nandini Reddy Bhumula. I live in San Antonio, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		"With over 8 years of experience, I have delivered enterprise-grade applications leveraging Java, Spring MVC, Hibernate, and modern JavaScript frameworks. My expertise spans asynchronous event-driven architectures using Kafka and RabbitMQ, advanced database design with MySQL, PostgreSQL, and MongoDB, as well as CI/CD automation with Jenkins, Docker, Kubernetes, and cloud deployments across AWS, Azure, and GCP. I thrive in Agile teams, mentoring junior developers, and aligning technical solutions to business goals.",
 	},
 
 	articles: {

@@ -44,7 +44,7 @@ const experiences = [
 		logo: "tjx-companies.png",
 	},
 	{
-		company: "NEWGEN SOFTWARE TECHNOLOGIES LIMITED",
+		company: "Newgen Software Technologies Limited",
 		title: "Associate Software Engineer",
 		type: "Internship",
 		duration: "May 2017 – Jun 2018 · 1 yr 2 mos",

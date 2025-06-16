@@ -3,7 +3,7 @@ const INFO = {
 		title: "Reactfolio by Nandini",
 		name: "Nandini Reddy Bhumula",
 		email: "bhumulanandinireddy55@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo.avif",
 	},
 
 	socials: {
